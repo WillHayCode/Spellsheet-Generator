@@ -1,0 +1,11 @@
+{
+  "name": "spellsheet",
+  "version": "1.0.0",
+  "description": "A NodeJS and LaTeX powered 5e spell sheet generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WillHayCode",
+  "license": "MIT"
+}
